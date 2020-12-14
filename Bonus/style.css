@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#app {
+    text-align: center;
+}
+h1 {
+    padding: 1em 1em;
+    text-transform: uppercase;
+}
+button {
+    padding: 1em;
+    color: black;
+    margin-bottom: 1em;
+}
+img {
+    width: 100%;
+}
+.hidden {
+    visibility: hidden;
+}
+.visible {
+    visibility: visible;
+}
